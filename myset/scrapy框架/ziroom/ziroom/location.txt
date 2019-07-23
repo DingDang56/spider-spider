@@ -1,0 +1,9 @@
+北京	//www.ziroom.com/z/nl/z3.html
+上海	//sh.ziroom.com/z/nl/z3.html
+深圳	//sz.ziroom.com/z/nl/z3.html
+杭州	//hz.ziroom.com/z/nl/z3.html
+南京	//nj.ziroom.com/z/nl/z3.html
+成都	//cd.ziroom.com/z/nl/z3.html
+武汉	//wh.ziroom.com/z/nl/z3.html
+广州	//gz.ziroom.com/z/nl/z3.html
+天津	//tj.ziroom.com/z/nl/z3.html
